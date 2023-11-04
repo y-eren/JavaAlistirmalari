@@ -1,8 +1,17 @@
 package algoritmalar;
 
-import java.security.PublicKey;
+
 import java.util.Iterator;
-import java.util.zip.ZipEntry;
+// ❑3 tane A, B ve C adında 1000 elemanlı bir dizi oluşturunuz.
+//▪ A dizisi, 1,2,3, …1000 şeklinde sıralı olsun.
+//▪ B dizisi 1000, 999, 998, …1 şeklinde tersten sıralı olsun.
+//▪ C dizisi ise rastgele sayı üreten (1 ile 1000 arasında) bir fonksiyon tarafından
+//üretilecek 1000 adet bir sayısı içerisinde barındırsın.
+//❑A, B ve C dizisinin elemanlarını aşağıdaki algoritmalar kullanarak sıralayınız.
+//▪ Araya yerleştirme algoritması
+//▪ Kabarcık sıralama algoritması
+//▪ Birleştirme sıralama algoritması
+//❑Bu üç algoritmanın performansını karşılaştırınız.
 
 public class uygulama {
 
