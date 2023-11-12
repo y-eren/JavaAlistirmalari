@@ -1,0 +1,11 @@
+785400
+bucketsort
+
+counting sort
+2140900
+
+msb radixsort 
+4477700
+
+lsb radixsort
+4065900
